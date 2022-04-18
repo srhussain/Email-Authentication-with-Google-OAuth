@@ -1,2 +1,2 @@
-./auth_sytem/.env
+.env
 .env/local
